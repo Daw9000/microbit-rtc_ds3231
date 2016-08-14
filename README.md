@@ -1,5 +1,13 @@
 # microbit-rtc_ds3231
 MicroBit Clock using rtc DS3231
+
+use MBED to import code from
+https://developer.mbed.org/users/daw9000/code/microbit-rtc_ds3231/
+or clone from github but you will REQUIRE as DEPENDENCIES
+Libraries
+MicroBit
+DS3231
+
 MicroBit-rtc_ds3231
 ##Clock
 
